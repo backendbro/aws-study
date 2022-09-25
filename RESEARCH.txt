@@ -1,0 +1,2 @@
+Does vertical scaling need a load balancer?
+What is the different between scalability and load balancers?
